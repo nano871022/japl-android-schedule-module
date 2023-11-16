@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="title_header">Horario</string>
+    <string name="day_week_monday">Lunes</string>
+    <string name="day_week_tuesday">Martes</string>
+    <string name="day_week_wednesday">Miercoles</string>
+    <string name="day_week_thursday">Jueves</string>
+    <string name="day_week_friday">Viernes</string>
+    <string name="day_week_saturday">Sabado</string>
+    <string name="day_week_sunday">Domingo</string>
+    <string name="day_week_short_monday">Lu</string>
+    <string name="day_week_short_tuesday">Ma</string>
+    <string name="day_week_short_wednesday">Mi</string>
+    <string name="day_week_short_thursday">Ju</string>
+    <string name="day_week_short_friday">Vi</string>
+    <string name="day_week_short_saturday">Sa</string>
+    <string name="day_week_short_sunday">Do</string>
+
+    <string-array name="hours">
+        <item>7am</item>
+        <item>8am</item>
+        <item>9am</item>
+        <item>10am</item>
+        <item>11am</item>
+        <item>12am</item>
+        <item>1pm</item>
+        <item>2pm</item>
+        <item>3pm</item>
+        <item>4pm</item>
+        <item>5pm</item>
+        <item>6pm</item>
+        <item>7pm</item>
+    </string-array>
+
+    <string-array name="schedule_monday">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+    </string-array>
+    <string-array name="schedule_tuesday">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="schedule_wednesday">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+    </string-array>
+    <string-array name="schedule_thursday">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="schedule_friday">
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+    </string-array>
+    <string-array name="schedule_saturday">
+
+    </string-array>
+</resources>
