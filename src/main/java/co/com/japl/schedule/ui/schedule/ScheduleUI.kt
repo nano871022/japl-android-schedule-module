@@ -22,8 +22,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import co.com.jap.ui.theme.MaterialThemeComposeUI
 import co.com.japl.schedule.R
+import co.com.japl.ui.theme.MaterialThemeComposeUI
 import java.time.DayOfWeek
 import java.time.LocalDateTime
 import java.time.temporal.TemporalAdjusters
