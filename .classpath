@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/release"/>
+	<classpathentry kind="lib" path="build/intermediates/aar_main_jar/debug/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debugAndroidTest/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_library_classes_jar/debug/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_library_classes_jar/release/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_r_class_jar/release/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/merged_java_res/debug/feature-ScheduleModule.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/merged_java_res/debugAndroidTest/feature-ScheduleModule.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debugAndroidTest/out/d19a7a63160aeac74ceafadc2c68830c0f12e5dbe70778bd9188a5184d295397_0.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debugAndroidTest/out/d19a7a63160aeac74ceafadc2c68830c0f12e5dbe70778bd9188a5184d295397_1.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debugAndroidTest/out/d19a7a63160aeac74ceafadc2c68830c0f12e5dbe70778bd9188a5184d295397_2.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debugAndroidTest/out/d19a7a63160aeac74ceafadc2c68830c0f12e5dbe70778bd9188a5184d295397_3.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/runtime_library_classes_jar/debug/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/runtime_library_classes_jar/release/bundleLibRuntimeToJarRelease/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/runtime_library_classes_jar/release/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/sub_project_dex_archive/debugAndroidTest/out/08b04cba8aa79ab4852cc3007643f2db76a594b3e23acc5fa8162aa6de016eb5_3.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/sub_project_dex_archive/debugAndroidTest/out/4486248700787c5c95490f1bc73545bc5a14bf297257bf8216b037d036c5eadb_1.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/sub_project_dex_archive/debugAndroidTest/out/4486248700787c5c95490f1bc73545bc5a14bf297257bf8216b037d036c5eadb_2.jar"/>
+	<classpathentry kind="output" path="build/intermediates/javac/debug/classes"/>
+</classpath>
