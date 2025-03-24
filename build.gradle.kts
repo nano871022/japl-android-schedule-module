@@ -1,6 +1,7 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.compose") version "2.0.0"
 }
 
 android {
@@ -9,8 +10,6 @@ android {
 
     defaultConfig {
         minSdk = 26
-
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
             useSupportLibrary = true
         }
@@ -28,22 +27,23 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
-        kotlinOptions {
-            jvmTarget = JavaVersion.VERSION_17.toString()
-        }
-        buildFeatures {
-            compose = true
-        }
-        composeOptions {
-            kotlinCompilerExtensionVersion = "1.5.4"
-        }
     }
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_17.toString()
+    }
+    buildFeatures {
+      compose = true
+    }
+    composeOptions {
+      kotlinCompilerExtensionVersion = "1.5.3"
+    }
+
 
 }
 
 dependencies {
 
-    implementation(project(":UI"))
+    implementation(project(":ui"))
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
     implementation("androidx.activity:activity-compose:1.8.0")
