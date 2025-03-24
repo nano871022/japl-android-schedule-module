@@ -36,21 +36,19 @@
 
     </string-array>
     <string-array name="schedule_tuesday">
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+
     </string-array>
     <string-array name="schedule_wednesday">
 
     </string-array>
     <string-array name="schedule_thursday">
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+
     </string-array>
     <string-array name="schedule_friday">
 
